@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "http://xuboshen.github.io/blog/"
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
